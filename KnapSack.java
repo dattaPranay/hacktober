@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Pranay on 11/20/2016.
  */
-public class KnapSack {
+public class KnapSack {  
     public static void main(String[] args) {
         System.out.println(" enter the max weight");
         Scanner sc=new Scanner(System.in);
