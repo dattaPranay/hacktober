@@ -2,11 +2,11 @@ package OOpr.park.battleShip;
 
 import java.util.*;
 
-/**
+/** 
  * Created by Pranay on 9/9/2017.
  */
 public class BattleShip {
-    public static void main(String[] args) {
+    public static void main(String[] args) {  
         PriorityQueue pr=new PriorityQueue(10,Collections.reverseOrder());
 
         Scanner sc=new Scanner(System.in);
