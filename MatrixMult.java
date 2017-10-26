@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+  
 /**
  * Created by Pranay on 11/20/2016.
  */
