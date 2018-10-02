@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class MatrixMult {
 
     public static void main(String[] args) {
-        System.out.println(" no. of matrix :");
+        System.out.println(" no. of matrix : ");
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
         List<Integer> arr=new ArrayList<>();
